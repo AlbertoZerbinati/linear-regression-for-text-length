@@ -4,6 +4,8 @@
 
 This work solves a problem I faced while developing a web application requiring the efficient computation of the maximum text length that would fit a given html `<div>`. I firstly developed a really naive and inefficient algorithm that allowed me to collect some data. Then, I used that data to train a linear regression model that gave me the coefficients to predict the quantity I needed in constant time.
 
-![Dataset](dataset.png?raw=true "Dataset")
+![Dataset](asset/dataset.png?raw=true "Dataset")
 
-![Prediction function](prediction_plane.png?raw=true "Prediction function")
+![Prediction function](asset/prediction_plane.png?raw=true "Prediction function")
+
+![Animation](asset/regression.m4v "Animation")
