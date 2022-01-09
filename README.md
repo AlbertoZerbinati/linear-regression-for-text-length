@@ -8,4 +8,4 @@ This work solves a problem I faced while developing a web application requiring 
 
 ![Prediction function](asset/prediction_plane.png?raw=true "Prediction function")
 
-![Animation](asset/regression.m4v "Animation")
+![Animation](asset/regression.gif "Animation")
